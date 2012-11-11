@@ -1,0 +1,20 @@
+{
+    "name": "yuyat/code_path_analyzer",
+    "description": "git remote add origin git@github.com:yuya-takeyama/code_path_analyzer.git",
+    "keywords": ["debug"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuya Takeyama",
+            "email": "sign.of.the.wolf.pentagram@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Yuyat": "src"
+        }
+    }
+}
