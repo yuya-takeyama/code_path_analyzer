@@ -1,0 +1,6 @@
+*.swp
+/.bundle
+/.venom
+/composer.lock
+/vendor
+/venom.php
